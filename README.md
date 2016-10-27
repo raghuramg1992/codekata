@@ -1,0 +1,2 @@
+# codekata
+Testing Java codes
